@@ -1,14 +1,6 @@
-Author: Nick House
-Language: Python
-Class: CS-4200 Python for Scientific Computing and Data Science
-Project: P2 - Hueristic Optimization
-
-This Project Solves the requirements put forth by the following
-
-
 1 Introduction
 In this project you will use Pandas and Numpy to implement a machine learning optimization
-heuristic following the given specications. Given a real-valued function of d variables, the
+heuristic following the given specifications. Given a real-valued function of d variables, the
 problem is to minimize the function (that is, nd values of the d variables that produce the
 minimum value of the function).
 
