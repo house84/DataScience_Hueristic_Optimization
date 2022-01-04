@@ -20,22 +20,6 @@ minimum value of the function).
 Algorithm 1: The algorithm
 initialize the population (of size n) uniformly randomly, obeying the bounds;
 
-while a pre-determined number of iterations is not complete do
-  set the random parameters (two independent parameters for each of the d
-    variables); nd the best and the worst vectors in the population;
-  
-  for each vector in the population do
-    create a new vector using the current vector, the best vector, the worst vector,
-    and the random parameters;
-    
-    if the new vector is at least as good as the current vector then
-      current vector = new vector;
-    end
-  
-  end
-
-end
-
 The heuristic employs a population of randomly-generated trial solutions (trial vectors)
 and seeks to improve upon them iteratively, until a stopping condition is satised. A typical
 stopping condition is based on a predetermined (high) number of iterations (such as 50 or
