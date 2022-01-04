@@ -3,9 +3,6 @@ Language: Python
 Class: CS-4200 Python for Scientific Computing and Data Science
 Project: P2 - Hueristic Optimization
 
-# DataScience_Python_P2
-CS-4200 Python for Scientific Computing and Data Science Project 2
-
 This Project Solves the requirements put forth by the following
 
 
